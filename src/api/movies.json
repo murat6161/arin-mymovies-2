@@ -1,0 +1,46 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "The Flash",
+      "rating": 8.3,
+      "description": "It is an exciting movie",
+      "imageURL": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80"
+    },
+    {
+      "id": 2,
+      "name": "The Interstellar",
+      "rating": 6.8,
+      "description": "It is a wonderful movie",
+      "imageURL": "https://images.unsplash.com/photo-1460881680858-30d872d5b530?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1502&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Arrow",
+      "rating": 7.9,
+      "description": "It is an interesting movie",
+      "imageURL": "https://images.unsplash.com/photo-1485095329183-d0797cdc5676?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Project Power",
+      "rating": 6.7,
+      "description": "It is comic movie",
+      "imageURL": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1525&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Superman",
+      "rating": 7.6,
+      "description": "It is an ooowwwwww movie",
+      "imageURL": "https://images.unsplash.com/photo-1520904738498-88ba7af0ecd7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1489&q=80"
+    },
+    {
+      "name": "Matrix",
+      "rating": "9",
+      "imageURL": "https://media-cdn.t24.com.tr/media/library/2019/02/1550554508241-kisa-film-wannart-900-x-580.jpg",
+      "overview": "Matrix Description",
+      "id": 7
+    }
+  ]
+}
